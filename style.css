@@ -1,15 +1,18 @@
 body {
-  background-color: black;
+  background-color: rgb(97, 169, 213);
   text-align: center;
   color: white;
 }
 
 
 #myCanvas {
-  background-image: url("https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-image: url("https://media.istockphoto.com/id/1210270993/vector/blue-sea-background.jpg?s=612x612&w=0&k=20&c=-QE2caupyoLL6CRwQfwai5YUjJPVSxJU9tflZhobcM8=");
   background-size: 400px;
   border-radius: 30px;
-  border: 1px solid rgb(255,245,227);
+  border: 1px solid rgb(87, 212, 249);
+  background-repeat: no-repeat;
+  width: 400px;
+    height: 270px;
 }
 
 .main{
